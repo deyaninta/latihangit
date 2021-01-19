@@ -4,5 +4,6 @@ class Hello{
 		System.out.println("auliawidaniq: Aplikasi Java 2020");
 		System.out.println("--- *** ---");
 		System.out.println("END");
+		System.out.println("User 2");
 	}
 }
